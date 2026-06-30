@@ -33,6 +33,7 @@
     "cloudinary": "^2.7.0",
     "dotenv": "^17.2.2",
     "firebase": "^12.1.0",
+    "framer-motion": "^12.42.1",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.19.0",
     "mongoose": "^8.18.1",
@@ -40,7 +41,8 @@
     "next": "^16.2.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "sharp": "^0.34.5"
+    "sharp": "^0.34.5",
+    "swiper": "^14.0.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
